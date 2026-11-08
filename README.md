@@ -6,7 +6,7 @@ Current version: **1.0.6**.
 
 ## Download
 
-Download [SNAK3-1.0.6.pbw](https://github.com/Traumlewis/SNAK3/releases/download/v1.0.6/SNAK3-1.0.6.pbw) from the [latest release](https://github.com/Traumlewis/SNAK3/releases/latest).
+Download [SNAK3-1.0.6.pbw](https://raw.githubusercontent.com/Traumlewis/SNAK3/v1.0.6/SNAK3-1.0.6.pbw) from the [latest release](https://github.com/Traumlewis/SNAK3/releases/latest).
 The PBW contains builds for all seven supported Pebble platforms.
 
 | Platform | Watches |
@@ -57,7 +57,7 @@ See [test report](docs/TESTING.md) and [changelog](CHANGELOG.md).
 
 ## Build integrity
 
-The release includes `SHA256SUMS`. To verify the downloaded PBW:
+The repository includes `SHA256SUMS`. Download it alongside the PBW, or verify the included PBW after cloning the repository. To verify the downloaded PBW:
 
 ```sh
 sha256sum -c SHA256SUMS
