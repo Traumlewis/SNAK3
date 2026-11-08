@@ -1,5 +1,7 @@
 # SNAK3
 
+![SNAK3 — Classic Snake. On your Pebble.](assets/SNAK3-banner-720x320.png)
+
 A Nokia-inspired Snake game for Pebble watches, by **Traumlewis**.
 
 Current version: **1.0.6**.
