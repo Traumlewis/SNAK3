@@ -1,0 +1,39 @@
+{
+  "name": "snak3",
+  "author": "Traumlewis",
+  "version": "1.0.6",
+  "keywords": [
+    "pebble-app"
+  ],
+  "private": true,
+  "dependencies": {},
+  "pebble": {
+    "displayName": "SNAK3",
+    "uuid": "b83a2022-7b26-45ff-bceb-dfee33249857",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "aplite",
+      "basalt",
+      "chalk",
+      "diorite",
+      "flint",
+      "emery",
+      "gabbro"
+    ],
+    "watchapp": {
+      "watchface": false
+    },
+    "messageKeys": {},
+    "resources": {
+      "media": [
+        {
+          "type": "bitmap",
+          "file": "images/Snakeicon.png",
+          "name": "Icon",
+          "menuIcon": true
+        }
+      ]
+    }
+  }
+}

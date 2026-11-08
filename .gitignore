@@ -1,0 +1,7 @@
+/build/
+/.lock-waf*
+/.waf*/
+/node_modules/
+__pycache__/
+*.pyc
+/tests/logic_test
